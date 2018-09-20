@@ -1,6 +1,7 @@
 public class CtoFTester{
   public static void main(String[] args) {
     System.out.println(celsiusToFahrenheit(100));
+    System.out.println(fahrenheitToCelsius(212));
   }
   //Function to change C to F
   public static int celsiusToFahrenheit(int C) {
